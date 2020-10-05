@@ -1,7 +1,6 @@
 using System.Threading.Tasks;
 using Amazon.Lambda.Core;
 using Amazon.Lambda.SQSEvents;
-using Amazon.Runtime;
 using Amazon.S3;
 using Amazon.S3.Model;
 using Newtonsoft.Json.Linq;
